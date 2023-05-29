@@ -1,4 +1,10 @@
-# TL_FEC_Immunity
+This repository contains data used in the manuscript, "No costs of infection or immunity on leukocyte telomere length in a wild population of Soay sheep" 
+
+Sanjana Ravindran, Sarah L. Underwood, Jennifer Dorrens, Luise A. Seeker, Kathryn Watt, Rachael V. Wilbourn, Alexandra M. Sparks, Rona Sinclair, Zhulin Chen, Jill G. Pilkington, Tom N McNeilly, Lea Harrington, Josephine M. Pemberton, Daniel H. Nussey, Hannah Froy
+
+Please contact Sanjana Ravindran (sanjana.ravindran@ed.ac.uk) for any information. 
+
+PLEASE READ IMPORTANT INFORMATION BELOW - 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 
 SOAY SHEEP PROJECT DATA REUSE:
